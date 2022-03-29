@@ -1,5 +1,5 @@
-##Projeto Apeperia
-___
+## Projeto Apeperia
+---
 
 Página web, desenvolvida através do conceito mobile-first, com layout responsivo ao mobile, tablet e desktop.
 
