@@ -1,3 +1,6 @@
-# projeto-apeperia
+##Projeto Apeperia
+___
 
-Projeto desenvolvido através do Curso de Lay-outs responsivos da Alura, então criamos uma página que responde ao mobile, table e desktop de maneiras diferentes.
+Página web, desenvolvida através do conceito mobile-first, com layout responsivo ao mobile, tablet e desktop.
+
+Site desenvolvido através da formação front-end na plataforma Alura
